@@ -1,0 +1,7 @@
+D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\bin\Debug\CSharp1.exe.config
+D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\bin\Debug\CSharp1.exe
+D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\bin\Debug\CSharp1.pdb
+D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.csproj.AssemblyReference.cache
+D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.csproj.CoreCompileInputs.cache
+D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.exe
+D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.pdb
