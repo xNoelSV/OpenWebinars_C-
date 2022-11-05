@@ -11,14 +11,18 @@ namespace CSharp1
 
         public long Seconds { get; set; }
 
+        public ShelvePosition Position { get; set; }
+
         public override void play()
         {
             Console.WriteLine("Increase volume");
             base.play();
         }
 
-        public ShelvePosition Position { get; set; }
+        public override string ToString()
+        {
+            return $"Titulo de la canción: {this.Title}";
+        }
 
-        
     }
 }

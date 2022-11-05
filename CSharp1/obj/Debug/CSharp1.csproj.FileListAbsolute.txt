@@ -5,3 +5,10 @@ D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.csproj.Assembly
 D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.csproj.CoreCompileInputs.cache
 D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.exe
 D:\OpenWebinars\CSharp\OpenWebinars_C#\CSharp1\obj\Debug\CSharp1.pdb
+C:\Users\Noel S.V\Documents\OpenWebinars\CSharp\OpenWebinars_C-\CSharp1\bin\Debug\CSharp1.exe.config
+C:\Users\Noel S.V\Documents\OpenWebinars\CSharp\OpenWebinars_C-\CSharp1\bin\Debug\CSharp1.exe
+C:\Users\Noel S.V\Documents\OpenWebinars\CSharp\OpenWebinars_C-\CSharp1\bin\Debug\CSharp1.pdb
+C:\Users\Noel S.V\Documents\OpenWebinars\CSharp\OpenWebinars_C-\CSharp1\obj\Debug\CSharp1.csproj.AssemblyReference.cache
+C:\Users\Noel S.V\Documents\OpenWebinars\CSharp\OpenWebinars_C-\CSharp1\obj\Debug\CSharp1.csproj.CoreCompileInputs.cache
+C:\Users\Noel S.V\Documents\OpenWebinars\CSharp\OpenWebinars_C-\CSharp1\obj\Debug\CSharp1.exe
+C:\Users\Noel S.V\Documents\OpenWebinars\CSharp\OpenWebinars_C-\CSharp1\obj\Debug\CSharp1.pdb

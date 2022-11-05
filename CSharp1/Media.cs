@@ -29,5 +29,26 @@ namespace CSharp1
                 return false;
             }
         }
+        public override bool Equals(object obj)
+        {
+            var mediaObject = (Media)obj;
+            if (mediaObject.Title == this.Title)
+            {
+                return true;
+            } else
+            {
+                return false;
+            }
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }
