@@ -1,0 +1,75 @@
+/* GENERAL */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.textoImportante {
+    background-color: #3e0000;
+    font-size: 14px;
+    color: white;
+}
+
+h1 {
+    color: #98ea00;
+    font-size: 48px;
+}
+
+h2 {
+    background-color: #98ea00;
+    color: white;
+    width: fit-content;
+    margin-top: 30px;
+}
+
+/* ESPACIADO IMAGEN */
+
+#imagenSubtituloEspaciado {
+    width: 450px;
+    height: auto;
+
+    padding-top: 25px;
+    padding-bottom: 10px;
+
+    text-align: center; 
+}
+
+#imgAlien {
+    height: 225px;
+    padding-bottom: 5px;
+}
+
+#centradoTextoEspaciado {
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+#NombreEspaciadoImagen {
+    background-color: #3e0000;
+    font-size: 14px;
+    color: #98ea00;
+}
+
+/* ESPACIADO TEXTO */
+
+#textoEspaciado {
+    width: auto;
+    height: auto;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    color: white;
+    text-align: justify;
+    line-height : 25px;
+    font-size: 18px;
+}
+
+/* TEXTO INFERIOR */
+
+p .textoRemarcado {
+    background-color: #98ea00;
+}
+
+p #textoRemarcado2 {
+    background-color: #3e0000;
+    color: white;
+}
